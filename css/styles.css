@@ -1,0 +1,31 @@
+body{
+  background-color:  #FAEDC6;
+}
+
+hr{
+  border-style: dotted none none;
+  height: 0px;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1:hover  {
+
+color :  #FF5959;
+}
+
+h2{
+color : #7CD1B8;
+}
+
+h3{
+color : #7CD1B8;
+}
+.name{
+  color : #7CD1B8;
+}
+
+.contact{
+  color : #7CD1B8;
+}
